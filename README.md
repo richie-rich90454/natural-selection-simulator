@@ -1,2 +1,2 @@
-# cell-division-simulator
-An educational tool to simulate cell division
+# Natural Selection Simulator
+- An educational tool to simulate natural selection
